@@ -1,6 +1,6 @@
 # COVID-19 Impact Analysis on Different Age Groups in Florida
 
-![COVID-19 Analysis](https://example.com/images/covid_analysis.png "COVID-19 Data Visualization")
+![COVID-19](https://www.heraldtribune.com/gcdn/presto/2020/09/02/NSHT/bd8305bf-9f0b-447d-bb9c-675ea151d1c5-screenshot-fdoh.maps.arcgis.com-2020.09.02-13_01_53.jpg?width=660&height=580&fit=crop&format=pjpg&auto=webp)
 
 
 ## Project Overview
