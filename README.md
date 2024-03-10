@@ -1,5 +1,3 @@
-# covid-19-in-florida
-
 # COVID-19 Impact Analysis on Different Age Groups in Florida
 
 ## Project Overview
