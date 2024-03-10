@@ -1,5 +1,8 @@
 # COVID-19 Impact Analysis on Different Age Groups in Florida
 
+![COVID-19 Analysis](https://example.com/images/covid_analysis.png "COVID-19 Data Visualization")
+
+
 ## Project Overview
 
 This data visualization project investigates the impact of COVID-19 and related illnesses on mortality rates across various age groups and locations within the state of Florida. Our goal was to explore relationships between age, gender, illness severity, and place of death to understand patterns of COVID-19-related mortality from 2020 to 2023.
